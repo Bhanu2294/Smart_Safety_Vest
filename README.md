@@ -35,4 +35,4 @@ Dashboard displays:
 
 Both desktop and mobile dashboards can be used for monitoring.
 
-![Circuit_Diagram]()
+![Circuit_Diagram](circuit.jpg)
